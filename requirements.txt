@@ -1,0 +1,1 @@
+requirements.txt faylini tahrirlash:python-telegram-bot==13.7
