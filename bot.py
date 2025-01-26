@@ -5,7 +5,7 @@ import requests
 
 TOKEN = '7757609154:AAEFn8Xs4NnvBzbTovhLv8cDD1ZpuUIEhP8'
 ADMIN_CHAT_ID = '6428294967'  # Adminning chat ID'si
-CHANNEL_USERNAMES = ['@aligarx_boy08','@S_WebBuilders','@R_Webbuilders']  # Kanal nomlari ro'yxati
+CHANNEL_USERNAMES = ['@S_WebBuilders','@R_Webbuilders']  # Kanal nomlari ro'yxati
 
 logging.basicConfig(
     format='%(asctime)s - %(name)s - %(level)s - %(message)s',
