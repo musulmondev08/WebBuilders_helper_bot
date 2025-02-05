@@ -23,6 +23,7 @@ FAQ_CONTENT = {
     "salom": "Salom",
     "salm":"Salom",
     "slom":"Salom",
+    "salo":"Salom",
     "hello": "Hello", 
     "hi": "Hii",
     "hii":"Hii",
@@ -62,11 +63,11 @@ FAQ_CONTENT = {
     "o'zing haqingda aytib ber":"Men 'WebBuilders_helper_bot'man va men sizning ko'plab savollaringizga javob beraman. Ogohlantirish! taqiqlangan va mavzuga oid bo'lmagan savollarga javob bera olmayman.",
     "o'zing haqingda ayt":"Men 'WebBuilders_helper_bot'man va men sizning ko'plab savollaringizga javob beraman. Ogohlantirish! taqiqlangan va mavzuga oid bo'lmagan savollarga javob bera olmayman.",
     "ozing haqingda ayt":"Men 'WebBuilders_helper_bot'man va men sizning ko'plab savollaringizga javob beraman. Ogohlantirish! taqiqlangan va mavzuga oid bo'lmagan savollarga javob bera olmayman.",
-
-
-
-    
-
+    "yordam kerak":"Qanday yordam kerak",
+    "xatolik":"Qanday xatolik",
+    "yordam kk":"Qanday yordam",
+    "xatolik":"Qanday xatolik",
+    "sen nimalarni bilasan":"Men ko'p narsalarni bilaman sizga nimda yordam berishim kerak",
     # Davom etirib toldirish kerak
 
 
